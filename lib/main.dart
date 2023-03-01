@@ -94,7 +94,7 @@ class _MyAppState extends State<MyApp> {
 
     final List<Widget> _children = [
       HomeScreen(
-        userName: "John Doe",
+        userName: "Jehovah Yii Zui Hon",
         userLevel: 1,
         articles: articles,
         podcasts: podcasts,

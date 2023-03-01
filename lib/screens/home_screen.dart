@@ -1,7 +1,6 @@
 import 'package:finedu/widgets/profile_header.dart';
 import 'package:flutter/material.dart';
 import '../widgets/bottom_bar.dart';
-import '../widgets/custom_card.dart';
 import '../widgets/circle_banner.dart';
 import '../widgets/level_bar.dart';
 import '../widgets/article_card.dart';

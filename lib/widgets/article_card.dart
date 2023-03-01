@@ -1,5 +1,5 @@
+import '../widgets/custom_card.dart';
 import 'package:flutter/material.dart';
-import 'custom_card.dart';
 import '../models/article.dart';
 
 class ArticleCard extends StatelessWidget {

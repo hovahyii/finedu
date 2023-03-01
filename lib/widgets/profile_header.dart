@@ -22,7 +22,7 @@ class ProfileHeader extends StatelessWidget {
           children: [
             CircleBanner(
               imageUrl:
-                  'https://th.bing.com/th/id/R.d7b04b04eda8f617f16de358ecf73e1d?rik=iMPe7Tum3ARuOw&riu=http%3a%2f%2fwww.brooklynvegan.com%2ffiles%2f2017%2f07%2fjohn-doe.jpg%3fw%3d630%26h%3d630%26zc%3d1%26s%3d0%26a%3dt%26q%3d89&ehk=pXpItPkUCgUQ3KyCY%2fthlMMbBiai7G3qqm%2blc2VBjmE%3d&risl=&pid=ImgRaw&r=0',
+                  'https://iemumpss.vercel.app/assets/img/developer/hovah.jpeg',
             ),
             SizedBox(width: 16),
             Expanded(

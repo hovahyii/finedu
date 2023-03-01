@@ -1,5 +1,5 @@
+import '../widgets/custom_card.dart';
 import 'package:flutter/material.dart';
-import 'custom_card.dart';
 import '../models/podcast.dart';
 
 class PodcastCard extends StatelessWidget {
@@ -12,8 +12,7 @@ class PodcastCard extends StatelessWidget {
     return SizedBox(
       width: 200,
       child: CustomCard(
-                borderRadius: BorderRadius.zero,
-
+        borderRadius: BorderRadius.zero,
         borderSide: BorderSide.none,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
